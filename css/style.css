@@ -45,7 +45,7 @@ h2{
 /*header area*/
 .top-header{
 	background:transparent;
-	position: fixed;
+	position: relative;
 	width: 100%;
 	z-index: 999;
 		transition: all .7s ease 0s;
@@ -120,10 +120,12 @@ ul.nav{
   z-index: -100;
 }
 
+
+
 .headertext {
     width: 100%;
     text-align: center;
-    margin: 100px 0px;
+    margin: 10px 0px 100px;
 }
 
 /*banner area*/
