@@ -120,6 +120,12 @@ ul.nav{
   z-index: -100;
 }
 
+.col-xs-6 {
+    width: 100%;
+    text-align: center;
+    margin: 100px 0px;
+}
+
 /*banner area*/
 .banner{
 	
