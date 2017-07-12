@@ -139,7 +139,7 @@ ul.nav{
 	padding-bottom: 75px;
 }
 .banner h3{
-	font-size: 14px;
+	font-size: 18px;
 	color: #D12929;
 	text-transform: uppercase;
 	margin-top: 160px;
@@ -153,6 +153,7 @@ ul.nav{
 	font-size: 18px;
 	color: #999999;
 	margin-top: 25px;
+	margin-bottom: 25px;
 	line-height: 2;
 	font-weight: 600;
 }
